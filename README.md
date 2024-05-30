@@ -1,2 +1,2 @@
 # spidercoin
-Peter Parker's ICO for spiderman's stablecoin
+Peter Parker's website for issuing spiderman's ICO stablecoin
